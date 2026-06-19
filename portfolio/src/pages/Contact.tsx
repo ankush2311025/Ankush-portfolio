@@ -34,15 +34,15 @@ export default function Contact() {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "ankush.sharma@email.com", href: "mailto:ankush.sharma@email.com" },
-    { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+919876543210" },
-    { icon: MapPin, label: "Location", value: "India", href: "#" },
+    { icon: Mail, label: "Email", value: "ankush.sharma@email.com", href: "mailto:ankson1010@gmail.com" },
+    { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+918882294518" },
+    { icon: MapPin, label: "Location", value: "India", href: "https://www.google.com/maps/place/India" },
   ];
 
   const socials = [
-    { icon: SiGithub, label: "GitHub", href: "#" },
-    { icon: FaLinkedin, label: "LinkedIn", href: "#" },
-    { icon: SiLeetcode, label: "LeetCode", href: "#" },
+    { icon: SiGithub, label: "GitHub", href: "https://github.com/ankush2311025" },
+    { icon: FaLinkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/ankush-sharma-49aa202a1/" },
+    { icon: SiLeetcode, label: "LeetCode", href: "https://leetcode.com/u/Ankush0908/" },
   ];
 
   return (

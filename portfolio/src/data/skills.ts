@@ -14,7 +14,6 @@ export const skills = [
       { name: "JavaScript", icon: SiJavascript, level: 90 },
       { name: "TypeScript", icon: SiTypescript, level: 85 },
       { name: "Python", icon: SiPython, level: 80 },
-      { name: "C++", icon: SiCplusplus, level: 75 },
       { name: "SQL", icon: SiSqlite, level: 85 }
     ]
   },
@@ -31,15 +30,15 @@ export const skills = [
   {
     category: "Frontend",
     items: [
-      { name: "React", icon: SiReact, level: 85 },
-      { name: "Next.js", icon: SiNextdotjs, level: 75 },
-      { name: "Tailwind CSS", icon: SiTailwindcss, level: 90 }
+      { name: "React", icon: SiReact, level: 50 },
+      { name: "Next.js", icon: SiNextdotjs, level: 50 },
+      { name: "Tailwind CSS", icon: SiTailwindcss, level: 50 }
     ]
   },
   {
     category: "Databases",
     items: [
-      { name: "MongoDB", icon: SiMongodb, level: 85 },
+      { name: "MongoDB", icon: SiMongodb, level: 80 },
       { name: "MySQL", icon: SiMysql, level: 80 },
       { name: "PostgreSQL", icon: SiPostgresql, level: 80 }
     ]
@@ -50,7 +49,7 @@ export const skills = [
       { name: "Docker", icon: SiDocker, level: 75 },
       { name: "Kubernetes", icon: SiKubernetes, level: 60 },
       { name: "CI/CD", icon: SiGithubactions, level: 70 },
-      { name: "GitHub Actions", icon: SiGithubactions, level: 75 }
+      { name: "GitHub Actions", icon: SiGithubactions, level: 80 }
     ]
   },
   {

@@ -4,16 +4,16 @@ import { Download, Mail, Phone, MapPin, Github, Linkedin } from "lucide-react";
 const resumeSections = {
   education: [
     {
-      institution: "University / College Name",
-      degree: "Bachelor of Technology — Computer Science",
-      period: "2020 — 2024",
+      institution: "AKGEC, Ghaziabad",
+      degree: "Bachelor of Technology — Computer Science & Information Technology",
+      period: "2023 — 2027",
       details: "Relevant coursework: Data Structures & Algorithms, Database Management Systems, Computer Networks, Operating Systems, Software Engineering",
     },
   ],
   experience: [
     {
       title: "Backend Developer",
-      company: "Freelance",
+      company: "Pesonal Projects & Freelancer",
       period: "2023 — Present",
       points: [
         "Architected and delivered RESTful APIs using NestJS and Node.js for multiple client projects",
@@ -25,7 +25,7 @@ const resumeSections = {
     {
       title: "Backend Engineer",
       company: "Smart India Hackathon (SIH)",
-      period: "2022",
+      period: "2025",
       points: [
         "Built Ocean Hazard Reporting Platform backend during national hackathon",
         "Integrated AI detection models with RESTful APIs serving interactive geospatial maps",
@@ -39,9 +39,10 @@ const resumeSections = {
     { name: "School Management API", tech: "Node.js • MySQL • Geolocation • Redis" },
     { name: "Movie Booking System", tech: "React • Node.js • MongoDB • Google OAuth" },
     { name: "Email Service System", tech: "Node.js • RabbitMQ • Redis • SendGrid" },
+    { name: "Flight Booking", tech: "Node.js • MySql • Redis " },
   ],
   skills: {
-    Languages: "JavaScript, TypeScript, Python, C++, SQL",
+    Languages: "JavaScript, TypeScript, Python, SQL",
     Backend: "Node.js, Express.js, NestJS, REST APIs, JWT, RBAC",
     Frontend: "React.js, Next.js, Tailwind CSS",
     Databases: "MongoDB, MySQL, PostgreSQL",

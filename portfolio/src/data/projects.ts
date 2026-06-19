@@ -10,7 +10,7 @@ export const projects = [
       "Custom Query Filtering"
     ],
     techStack: ["NestJS", "TypeScript", "PostgreSQL", "Prisma", "JWT"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/ankush2311025/Finance-backend-management-system",
     liveUrl: "#"
   },
   {
@@ -24,8 +24,8 @@ export const projects = [
       "Automated Alerting System"
     ],
     techStack: ["Node.js", "Express", "Python", "MongoDB", "React"],
-    githubUrl: "#",
-    liveUrl: "#"
+    githubUrl: "https://github.com/ankush2311025/BlueBeacon",
+    liveUrl: "https://blue-beacon.vercel.app/"
   },
   {
     id: "school-api",
@@ -38,7 +38,7 @@ export const projects = [
       "Scalable Architecture"
     ],
     techStack: ["Node.js", "MySQL", "Express", "Redis"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/ankush2311025/SchoolManagement",
     liveUrl: "#"
   },
   {
@@ -52,7 +52,7 @@ export const projects = [
       "Admin Dashboard"
     ],
     techStack: ["React", "Node.js", "MongoDB", "Express", "OAuth"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/ankush2311025/SeatMaster.backendproject",
     liveUrl: "#"
   },
   {
@@ -66,7 +66,7 @@ export const projects = [
       "Delivery Analytics"
     ],
     techStack: ["Node.js", "RabbitMQ", "Redis", "SendGrid"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/ankush2311025/emailSender",
     liveUrl: "#"
   }
 ];

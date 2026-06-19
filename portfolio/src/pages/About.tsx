@@ -5,10 +5,10 @@ import { useCountUp } from "@/hooks/useCountUp";
 import { Code, Target, Rocket, Zap } from "lucide-react";
 
 const stats = [
-  { label: "Projects Completed", value: 12, suffix: "+" },
-  { label: "DSA Problems Solved", value: 300, suffix: "+" },
+  { label: "Projects Completed", value: 20, suffix: "+" },
+  { label: "DSA Problems Solved", value: 200, suffix: "+" },
   { label: "Technologies Learned", value: 20, suffix: "+" },
-  { label: "GitHub Contributions", value: 500, suffix: "+" },
+  { label: "GitHub Contributions", value: 300, suffix: "+" },
 ];
 
 function StatCard({ label, value, suffix }: { label: string; value: number; suffix: string }) {
