@@ -44,7 +44,7 @@ const profiles = [
     description: "Professional network, career updates, and technical articles.",
     stats: [
       { label: "Connections", value: "200+", icon: Star },
-      { label: "Posts", value: "15+", icon: TrendingUp },
+      { label: "Posts", value: "0", icon: TrendingUp },
       { label: "Endorsements", value: "1+", icon: Award },
     ],
     gradient: "from-blue-700/20 to-blue-900/20",

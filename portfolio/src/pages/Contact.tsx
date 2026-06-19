@@ -34,8 +34,8 @@ export default function Contact() {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "ankush.sharma@email.com", href: "mailto:ankson1010@gmail.com" },
-    { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+918882294518" },
+    { icon: Mail, label: "Email", value: "ankson1010@gamil.com", href: "mailto:ankson1010@gmail.com" },
+    { icon: Phone, label: "Phone", value: "+91 8882294518", href: "tel:+918882294518" },
     { icon: MapPin, label: "Location", value: "India", href: "https://www.google.com/maps/place/India" },
   ];
 
