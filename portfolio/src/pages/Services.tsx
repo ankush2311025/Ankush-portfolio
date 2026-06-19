@@ -47,7 +47,7 @@ const services = [
 const plans = [
   {
     name: "Starter",
-    price: "$499",
+    price: "$40",
     period: "project",
     description: "Perfect for small projects and MVPs.",
     features: ["REST API (up to 10 endpoints)", "Basic Authentication", "Single Database", "Code Documentation", "2 Revision Rounds", "Email Support"],
@@ -56,7 +56,7 @@ const plans = [
   },
   {
     name: "Professional",
-    price: "$1,299",
+    price: "$100",
     period: "project",
     description: "For startups and growing products.",
     features: ["REST API (unlimited endpoints)", "JWT + RBAC Auth", "Multi-DB Architecture", "API Documentation", "Docker Setup", "Unlimited Revisions", "Priority Support", "Performance Optimization"],
