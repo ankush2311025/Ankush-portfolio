@@ -77,16 +77,16 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-1/2 h-[1px] bg-gradient-to-r from-transparent via-primary/50 to-transparent"></div>
         <div className="container mx-auto px-6 text-center">
           <div className="flex justify-center items-center gap-6 mb-8">
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
+            <a href="https://github.com/ankush2311025" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
               <SiGithub size={24} />
             </a>
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
+            <a href="https://www.linkedin.com/in/ankush-sharma-49aa202a1/" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
               <FaLinkedin size={24} />
             </a>
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
+            <a href="https://leetcode.com/u/Ankush0908/" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
               <SiLeetcode size={24} />
             </a>
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
+            <a href="ankson1010@gamil.com" className="text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 transform duration-200">
               <Mail size={24} />
             </a>
           </div>
