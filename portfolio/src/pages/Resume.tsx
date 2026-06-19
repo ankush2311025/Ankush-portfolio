@@ -88,19 +88,19 @@ export default function Resume() {
           <p className="text-primary font-mono text-sm mb-4">Backend Developer | Software Engineer | Problem Solver</p>
           <div className="flex flex-wrap gap-4 text-sm text-muted-foreground">
             <a href="mailto:ankush.sharma@email.com" className="flex items-center gap-1.5 hover:text-primary transition-colors">
-              <Mail size={14} /> ankush.sharma@email.com
+              <Mail size={14} /> ankson1010@gmail.com
             </a>
             <span className="flex items-center gap-1.5">
-              <Phone size={14} /> +91 98765 43210
+              <Phone size={14} /> +91 8882294518
             </span>
             <span className="flex items-center gap-1.5">
               <MapPin size={14} /> India
             </span>
             <a href="#" className="flex items-center gap-1.5 hover:text-primary transition-colors">
-              <Github size={14} /> github.com/ankush-sharma
+              <Github size={14} /> github.com/ankush2311025
             </a>
             <a href="#" className="flex items-center gap-1.5 hover:text-primary transition-colors">
-              <Linkedin size={14} /> linkedin.com/in/ankush-sharma
+              <Linkedin size={14} /> linkedin.com/in/ankush-sharma-49aa202a1/
             </a>
           </div>
         </div>

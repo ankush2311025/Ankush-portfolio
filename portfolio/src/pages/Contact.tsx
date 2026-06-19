@@ -17,7 +17,7 @@ export default function Contact() {
     else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email)) e.email = "Enter a valid email";
     if (!form.subject.trim()) e.subject = "Subject is required";
     if (!form.message.trim()) e.message = "Message is required";
-    else if (form.message.trim().length < 20) e.message = "Message must be at least 20 characters";
+    else if (form.message.trim().length < 20) e.message = "Message must be at least 200 characters";
     return e;
   };
 
